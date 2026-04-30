@@ -1,0 +1,74 @@
+[
+  {
+    "Category_ID":"INT1",
+    "OSFI_bucket":"Internal",
+    "Risk_category":"Data governance, privacy and data quality risk",
+    "Exposure_1_name":"Sensitive data use",
+    "Exposure_2_name":"External data processing complexity",
+    "Control_name":"Data governance visibility"
+  },
+  {
+    "Category_ID":"INT2",
+    "OSFI_bucket":"Internal",
+    "Risk_category":"Model risk",
+    "Exposure_1_name":"High-impact AI use case intensity",
+    "Exposure_2_name":"Third-party model dependency",
+    "Control_name":"Model governance visibility"
+  },
+  {
+    "Category_ID":"INT3",
+    "OSFI_bucket":"Internal",
+    "Risk_category":"Third-party \/ cloud \/ concentration risk",
+    "Exposure_1_name":"Cloud dependence",
+    "Exposure_2_name":"Vendor concentration",
+    "Control_name":"Third-party oversight visibility"
+  },
+  {
+    "Category_ID":"INT4",
+    "OSFI_bucket":"Internal",
+    "Risk_category":"Operational and cyber risk from internal AI adoption",
+    "Exposure_1_name":"Enterprise deployment scale",
+    "Exposure_2_name":"Operational reliance on AI-enabled workflows",
+    "Control_name":"Operational resilience and cyber control visibility"
+  },
+  {
+    "Category_ID":"INT5",
+    "OSFI_bucket":"Internal",
+    "Risk_category":"Legal, conduct and reputational risk",
+    "Exposure_1_name":"Customer-facing AI intensity",
+    "Exposure_2_name":"Decision sensitivity",
+    "Control_name":"Responsible AI \/ conduct governance visibility"
+  },
+  {
+    "Category_ID":"INT6",
+    "OSFI_bucket":"Internal",
+    "Risk_category":"Business \/ strategic risk",
+    "Exposure_1_name":"Strategic AI dependence",
+    "Exposure_2_name":"Transformation pace",
+    "Control_name":"Strategic oversight visibility"
+  },
+  {
+    "Category_ID":"EXT1",
+    "OSFI_bucket":"External",
+    "Risk_category":"External cyber and fraud risk",
+    "Exposure_1_name":"AI-enabled threat relevance",
+    "Exposure_2_name":"Digital channel and AI attack surface",
+    "Control_name":"Defensive control visibility"
+  },
+  {
+    "Category_ID":"EXT2",
+    "OSFI_bucket":"External",
+    "Risk_category":"Market \/ liquidity \/ systemic amplification risk",
+    "Exposure_1_name":"AI use in market-facing activities",
+    "Exposure_2_name":"Scale relevance",
+    "Control_name":"Market governance visibility"
+  },
+  {
+    "Category_ID":"EXT3",
+    "OSFI_bucket":"External",
+    "Risk_category":"Macroeconomic \/ credit \/ misinformation spillover risk",
+    "Exposure_1_name":"Credit and macro sensitivity to AI disruption",
+    "Exposure_2_name":"Misinformation \/ external environment sensitivity",
+    "Control_name":"Monitoring visibility"
+  }
+]
