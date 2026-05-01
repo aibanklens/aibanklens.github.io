@@ -2,7 +2,7 @@
 
 A research-grade interactive dashboard tracking AI & cloud risk across Canada's six largest banks (TD, RBC, Scotiabank, CIBC, BMO, NBC), assessed under the OSFI-FCAC regulatory framework (2020–2025).
 
-**Live site: https://aibanklens.github.io
+Live site: https://aibanklens.github.io
 
 ---
 
